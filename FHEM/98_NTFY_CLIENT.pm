@@ -502,7 +502,7 @@ sub NTFY_Delete
 
 =item summary_DE Ein module zu senden und empfangen von Benachrichtigungen über einen ntfy.sh kompatiblen server
 
-=begin html
+=begin html_DE
 
   <h3>NTFY_CLIENT</h3>
   <a id="NTFY_CLIENT"></a>
@@ -582,14 +582,6 @@ sub NTFY_Delete
       Values: (max, high, default, low, min)
     </dd>
   </dl>
-
-=end html
-
-=begin html_DE
-
- <h3>NTFY_CLIENT</h3>
- <a id="NTFY_CLIENT"></a>
- blabla
 
 =end html_DE
 
